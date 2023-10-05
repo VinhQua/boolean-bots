@@ -1,0 +1,108 @@
+export const botList = [
+  {
+    colorSchemes: {
+      background: '#fcebe6',
+      border: '#bc6850',
+      base: '#ef9b83',
+      stroke: '#bc6850',
+    },
+    id: 1684977998905,
+    x: 3,
+    y: 6,
+    name: 'alen',
+    booleanValue: 0,
+    direction: 'west',
+  },
+  {
+    colorSchemes: {
+      background: '#eff7ee',
+      border: '#7ba577',
+      base: '#aed8aa',
+      stroke: '#7ba577',
+    },
+    id: 1684978013028,
+    x: 5,
+    y: 0,
+    name: 'hana',
+    booleanValue: 1,
+    direction: 'north',
+  },
+  {
+    colorSchemes: {
+      background: '#f1f6fc',
+      border: '#869ebc',
+      base: '#b9d1ef',
+      stroke: '#869ebc',
+    },
+    id: 1684978024961,
+    x: 5,
+    y: 2,
+    name: 'josh',
+    booleanValue: 1,
+    direction: 'east',
+  },
+  {
+    colorSchemes: {
+      background: '#fcfbf9',
+      border: '#bcbaae',
+      base: '#efede1',
+      stroke: '#bcbaae',
+    },
+    id: 1684978031930,
+    x: 6,
+    y: 1,
+    name: 'ami',
+    booleanValue: 0,
+    direction: 'south',
+  },
+];
+export const testScores = [
+  {
+    id: 1686478104319,
+    name: 'zx',
+    win: 1,
+    lose: 0,
+    colorSchemes: {
+      background: '#f2fdf6',
+      border: '#8ac09f',
+      base: '#bdf3d2',
+      stroke: '#8ac09f',
+    },
+  },
+  {
+    id: 1686478107877,
+    name: 'as',
+    win: 20,
+    lose: 0,
+    colorSchemes: {
+      background: '#f6e6f5',
+      border: '#9e5199',
+      base: '#d184cc',
+      stroke: '#9e5199',
+    },
+  },
+  {
+    id: 1686478110858,
+    name: 'asdsa',
+    win: 0,
+    lose: 0,
+    colorSchemes: {
+      background: '#f4ecf0',
+      border: '#966e7f',
+      base: '#c9a1b2',
+      stroke: '#966e7f',
+    },
+  },
+  {
+    id: 1686478113643,
+    name: 'sada',
+    win: 0,
+    lose: 0,
+    colorSchemes: {
+      background: '#faeaeb',
+      border: '#b1646a',
+      base: '#e4979d',
+      stroke: '#b1646a',
+    },
+  },
+];
